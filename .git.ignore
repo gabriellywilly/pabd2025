@@ -1,0 +1,6 @@
+# Ignorar  arquivos de confiração que não devem ser comentados
+.env
+
+# Ignorar todos os diretórios __pycache__
+__pycache__/
+.venv/
